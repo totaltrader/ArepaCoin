@@ -1,6 +1,6 @@
 # Arepacoin
 
-![logo](https://chainz.cryptoid.info/logo/arepa.png)
+![logo](https://arepacripto.org/arepacoin.png)
 
 Arepacoin nace el 25 de septiembre del 2016 con el fin de convertirse en una moneda referente de Venezuela en el mundo, con una emisión total de 60.000.000 de Arepas y un PoS del 3% de interés anual. Esta desarrollada con el algoritmo Scrypt PoW-PoS, que le permite ser una moneda robusta con un crecimiento de forma orgánica y con gran solidez. Puerto RPC: 8586 y Puerto P2P: 8585. 
 
@@ -16,10 +16,10 @@ Los bloques minables mediante PoW tienen una recompensa generada de la siguiente
 
 LINKS
 ==========================
-* Pagina Oficial (https://arepacoinve.info/)
+* Pagina Oficial (https://arepacoin.info/)
 * Foro Oficial (https://bitcointalk.org/index.php?topic=2931570)
-* Twitter Arepacoin (https://twitter.com/arepacoinve)
-* Grupo Telegram Arepacoin (https://t.me/ArepacoinVE_ES)
+* Twitter Arepacoin (https://twitter.com/arepacripto_org)
+* Grupo Telegram Arepacoin (https://t.me/Arepacripto)
 
 Procedimiento para compilar la billeterá virtual en Ubuntu GNU/Linux:
 ==========================
